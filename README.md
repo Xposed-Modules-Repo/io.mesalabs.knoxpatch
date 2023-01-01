@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BlackMesa123/KnoxPatch/main/readme-res/kp-readme-header.png" width="75%"/>
   <br><br>
-  <img src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.mesalabs.knoxpatch?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.mesalabs.knoxpatch?display_name=release&style=for-the-badge"/>
   <img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.mesalabs.knoxpatch/total?style=for-the-badge"/>
   <a href="https://github.com/BlackMesa123/KnoxPatch"><img src="https://img.shields.io/badge/GitHub-Repo-lightgrey.svg?style=for-the-badge&logo=GitHub"/></a>
   <br><br>
