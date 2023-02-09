@@ -5,11 +5,12 @@
   <img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.mesalabs.knoxpatch/total?style=for-the-badge"/>
   <a href="https://github.com/BlackMesa123/KnoxPatch"><img src="https://img.shields.io/badge/GitHub-Repo-lightgrey.svg?style=for-the-badge&logo=GitHub"/></a>
   <br><br>
-  An <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> module to get Knox features working again in your rooted Samsung Galaxy device.
+  An <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> module to get Samsung apps/features working again in your rooted Galaxy device.
   <br>
 </p>
 
 ## Supported Android versions
+- Android 9 (One UI 1.x)
 - Android 10 (One UI 2.x)
 - Android 11 (One UI 3.x) (Secure Folder not working)
 - Android 12 (One UI 4.x)
