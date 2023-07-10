@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BlackMesa123/KnoxPatch/main/readme-res/kp-readme-header.png" width="75%"/>
-  <br><br>
-  <img src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.mesalabs.knoxpatch?display_name=release&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.mesalabs.knoxpatch/total?style=for-the-badge"/>
+  <br>
+  <a href="https://apt.izzysoft.de/fdroid/index/apk/io.mesalabs.knoxpatch"><img loading="lazy" src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width="170"/></a>
+  <br>
+  <a href="https://github.com/BlackMesa123/KnoxPatch/releases/latest"><img src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.mesalabs.knoxpatch?display_name=release&style=for-the-badge"/></a>
+  <a href="https://tooomm.github.io/github-release-stats/?username=Xposed-Modules-Repo&repository=io.mesalabs.knoxpatch"><img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.mesalabs.knoxpatch/total?style=for-the-badge"/></a>
   <a href="https://github.com/BlackMesa123/KnoxPatch"><img src="https://img.shields.io/badge/GitHub-Repo-lightgrey.svg?style=for-the-badge&logo=GitHub"/></a>
   <br><br>
   An <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> module to get Samsung apps/features working again in your rooted Galaxy device.
