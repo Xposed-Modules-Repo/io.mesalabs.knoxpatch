@@ -26,6 +26,7 @@
 - ✅ [Samsung Flow](https://www.samsung.com/uk/apps/samsung-flow/)
 - ✅ [Samsung Health](https://www.samsung.com/uk/apps/samsung-health/)
 - ✅ [Samsung Health Monitor](https://www.samsung.com/uk/apps/samsung-health-monitor/)
+- ➖ [Samsung TV Plus](https://www.samsungtvplus.com/) ([TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/latest) required)
 - ✅ [Secure Folder](https://www.samsungknox.com/en/solutions/personal-apps/secure-folder) ([Enhancer](#knoxpatch-enhancer) might be required)
 - ✅ [Secure Wi-Fi](https://www.samsung.com/uk/support/mobile-devices/what-is-the-secure-wifi-feature-and-how-do-i-enable-or-use-it/)
 - ✅ [SmartThings](https://www.samsung.com/uk/smartthings/app/)
@@ -61,7 +62,7 @@ KnoxPatch Enhancer is a flashable zip that will take care of the (currently) non
 ## Copyright
 ```
 /*
- * Copyright (C) 2022 BlackMesa123
+ * Copyright (C) 2022 Salvo Giangreco
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
