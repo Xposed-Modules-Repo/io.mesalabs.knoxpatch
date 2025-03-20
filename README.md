@@ -46,7 +46,7 @@ KnoxPatch Enhancer is a flashable zip that will take care of the (currently) non
   Download the module zip from the [latest release](https://github.com/salvogiangri/KnoxPatch/releases/latest) and install it from the "Modules" tab inside the Magisk/KernelSU app. The app will then show an "Enhanced" badge if the module is installed and active:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salvogiangri/KnoxPatch/main/readme-res/kp-enhancer.jpg" width="35%" />
+  <img src="https://raw.githubusercontent.com/salvogiangri/KnoxPatch/main/readme-res/kp-enhancer.png" width="35%" />
 </p>
 
 - Via a custom recovery (fix Secure Folder on legacy devices):
